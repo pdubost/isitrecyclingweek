@@ -7,8 +7,8 @@ $week = $date->format("W");
 
 if ($week % 2 == 0)
 {
-	$string = 'Yes. It is recycling week in Canton.'; 
-	$string2 = 'Out on Wednesday evening; collection on Thursday morning.'; 
+	$string = 'Yes. It is recycling week in Canton (Baltimore City).'; 
+	$string2 = 'Collection takes place on Thursday morning. Take it out on Wednesday evening.'; 
 	$bg_color = 'green';
 }
 else
@@ -22,9 +22,11 @@ else
 <html>
 <head>
 	<title>Is it Recycling Week in Canton?</title>
+	<link rel="canonical" href="https://isitrecyclingweek.info" />
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+	
 </head>
 <body bgcolor="<?php echo $bg_color; ?>" style="font-family: 'Open Sans', sans-serif;">
 	<div style="text-align:center;">
