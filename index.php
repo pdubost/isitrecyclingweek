@@ -31,7 +31,8 @@ else
 <body bgcolor="<?php echo $bg_color; ?>" style="font-family: 'Open Sans', sans-serif;">
 	<div style="text-align:center;">
 		<h1><?php echo $string; ?></h1>
-		<p><?php echo $string2; ?></p>
+		<p><?php echo $string2; ?> (Week #<?php echo $week; ?>, 2023)</p>
+
 	</div>
 	<div style="text-align:center;">More info: <a href="https://publicworks.baltimorecity.gov/collectionupdate" target="_blank">Baltimore City DPW</a></div>
 </body>
