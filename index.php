@@ -21,7 +21,7 @@ else
 ?>
 <html>
 <head>
-	<title>Canton Recycling Day - Baltimore City</title>
+	<title>Is it Recycling Week in Canton?</title>
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
