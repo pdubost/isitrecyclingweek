@@ -7,9 +7,10 @@ $week = $date->format("W");
 
 if ($week % 2 == 0)
 {
-  $string = 'Yes. It is recycling week in Canton.'; 
-  $string2 = 'Collection takes place on Thursday morning. Take it out on Wednesday evening.'; 
-  $bg_color = 'green';
+  $string = 'Yes.'; 
+  $string2 = 'It is recycling week in Canton.'; 
+  $string2bkp = 'Collection takes place on Thursday morning. Take it out on Wednesday evening.'; 
+  $bg_color = '#87D68D';
 }
 else
 {
