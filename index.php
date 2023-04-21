@@ -1,11 +1,30 @@
 <?php
-$ddate = "2023-04-19";
-$date = new DateTime($ddate);
+
+function is_rweek(){
+	// $ddate = "2023-04-19";
+	// $date = new DateTime($ddate);
+	$ddate = new DateTime();
+	$dweek = $ddate->format("W");
+	// echo "Week number: $week";
+
+	if ($dweek % 2 == 0)
+	{ 
+		return true; 
+	}
+	else
+	{
+		return false; 
+	}
+}
+
+// $ddate = "2023-04-19";
+// $date = new DateTime($ddate);
 $date_now = new DateTime();
-$week = $date->format("W");
+$week = $date_now->format("W");
 // echo "Week number: $week";
 
-if ($week % 2 == 0)
+if (is_rweek())
+// if ($week % 2 == 0)
 {
   $string = 'Yes.'; 
   $string2 = 'It is recycling week in Canton.'; 
