@@ -44,18 +44,18 @@ else
 
 <head>
   <meta charset="utf-8">
-  <title>Is it Recycling Week in Canton?</title>
+  <title>Is it Recycling Week in Canton? (Baltimore City)</title>
   <link rel="canonical" href="https://isitrecyclingweek.info" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
-  <meta name="description" content="">
+  <meta name="description" content="Is it Recycling Week in Canton? (Baltimore City!)">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <meta property="og:title" content="Is it Recycling Week in Canton?">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://isitrecyclingweek.info">
-  <meta property="og:image" content="">
+  <meta property="og:image" content="img/canton-recycling-crew-question.jpg">
 
   <!-- <link rel="manifest" href="site.webmanifest">
   <link rel="apple-touch-icon" href="icon.png"> -->
