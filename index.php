@@ -55,7 +55,7 @@ else
   <meta property="og:title" content="Is it Recycling Week in Canton?">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://isitrecyclingweek.info">
-  <meta property="og:image" content="img/canton-recycling-crew-question.jpg">
+  <meta property="og:image" content="https://isitrecyclingweek.info/img/canton-recycling-crew-question.jpg">
 
   <!-- <link rel="manifest" href="site.webmanifest">
   <link rel="apple-touch-icon" href="icon.png"> -->
