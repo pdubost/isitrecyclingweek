@@ -49,10 +49,11 @@ else
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
-  <meta name="description" content="Is it Recycling Week in Canton? (Baltimore City!)">
+  <meta name="description" content="Now we know.">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <meta property="og:title" content="Is it Recycling Week in Canton?">
+  <meta property="og:description" content="Now we know.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://isitrecyclingweek.info">
   <meta property="og:image" content="https://isitrecyclingweek.info/img/canton-recycling-crew-question.jpg">
